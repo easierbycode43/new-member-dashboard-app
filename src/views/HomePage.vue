@@ -31,7 +31,7 @@
               <ion-item class="item md">
                 <ion-label class="md">
                   <p>Client ID</p>
-                  <h2>20801</h2>
+                  <h2>202893039</h2>
                 </ion-label>
               </ion-item>
             </ion-list>
@@ -184,6 +184,99 @@
                   <p>Calculated engagement rate</p>
                   <p>(if RED, percentile is significantly low)</p>
                   <h2>2.44</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+        </ion-card>
+
+        <ion-card>
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Knows medical doctor at least 2 months?</p>
+                  <h2>Yes</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Knows psychiatrist at least 2 months?</p>
+                  <h2>Yes</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Medical alerts</p>
+                  <h2>Deaf/Hearing Impairment; Asthma; Diabetes;</h2>
+                  <h2>Hypertension; Severe Allergic Reactions;</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+        </ion-card>
+
+        <ion-card>
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Referrer's name</p>
+                  <h2>Marla Muppet</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Referral agency</p>
+                  <h2>Fountain House member</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Referer's email address</p>
+                  <h2>marlamuppet@gmail.com</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Referer's telephone number</p>
+                  <h2>(347) 325-1570 x</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Type of agency</p>
+                  <h2>Clubhouse</h2>
                 </ion-label>
               </ion-item>
             </ion-list>
