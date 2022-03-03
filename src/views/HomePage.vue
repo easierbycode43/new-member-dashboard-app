@@ -153,6 +153,42 @@
             </ion-list>
           </ion-card-content>
         </ion-card>
+
+        <ion-card>
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Days of membership</p>
+                  <h2>363</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Count of non-dynamic (regular) reachout attempts</p>
+                  <h2>8</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+
+          <ion-card-content class="md card-content-md">
+            <ion-list class="md list-md list-lines-none list-md-lines-none">
+              <ion-item class="item md">
+                <ion-label class="md" style="text-align: center">
+                  <p>Calculated engagement rate</p>
+                  <p>(if RED, percentile is significantly low)</p>
+                  <h2>2.44</h2>
+                </ion-label>
+              </ion-item>
+            </ion-list>
+          </ion-card-content>
+        </ion-card>
       </ion-content>
     </ion-content>
   </ion-page>
